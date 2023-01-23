@@ -1,0 +1,42 @@
+{
+  "cards": [
+    {
+      "id": 2,
+      "title": "MacBook Air 2020",
+      "price": 1200,
+      "memory": 256,
+      "image": "https://helios-i.mashable.com/imagery/reviews/03y8gbj1mqCuexgXxFJ5vyX/hero-image.fill.size_1200x1200.v1623391330.jpg"
+    },
+    {
+      "id": 3,
+      "title": "MacBook Air 2020",
+      "price": 1200,
+      "memory": 256,
+      "image": "https://helios-i.mashable.com/imagery/reviews/03y8gbj1mqCuexgXxFJ5vyX/hero-image.fill.size_1200x1200.v1623391330.jpg"
+    },
+    {
+      "id": 4,
+      "title": "MacBook Air 2020",
+      "price": 1200,
+      "memory": 256,
+      "image": "https://helios-i.mashable.com/imagery/reviews/03y8gbj1mqCuexgXxFJ5vyX/hero-image.fill.size_1200x1200.v1623391330.jpg"
+    },
+    {
+      "title": "eiehjdf",
+      "id": 5
+    },
+    {
+      "title": "eiehjdf",
+      "id": 6
+    },
+    {
+      "title": "Ушурова",
+      "id": 7
+    },
+    {
+      "name": "яся",
+      "surname": "ушурова",
+      "id": 8
+    }
+  ]
+}
